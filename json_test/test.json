@@ -1,0 +1,22 @@
+{
+    "frameid":1,
+    "frametime":123,
+    "rects":[
+        {
+            "x":12,
+            "y":13,
+            "width":14,
+            "height":15,
+            "dist":12.34,
+            "realwidth":43.214
+        },
+        {
+            "x":12,
+            "y":13,
+            "width":14,
+            "height":15,
+            "dist":12.34,
+            "realwidth":43.213
+        }
+    ]
+}
